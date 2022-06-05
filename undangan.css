@@ -1,0 +1,67 @@
+body{
+   background-image: url(Halamandepan1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   height: 100%;
+}
+
+.depan{
+  text-align: center;
+  margin-top: 275px;
+  color: white;
+  font-family: 'comfortaaregular';
+}
+
+.namapengantin{
+  font-family: 'kaushan_scriptregular';
+  font-size: 30px;
+  margin-bottom: -10px;
+  margin-top: -10px;
+  font-weight: normal;
+  line-height: 60px;
+}
+
+.tombol{
+  border: none;
+  color: white;
+  background-color: transparent;
+  border-radius: 50px;
+  border: solid 2px;
+  padding: 9px 18px;
+  font-size: 15px;
+  margin-top: 20px;
+  font-family: 'comfortaaregular';
+}
+
+.tombol:hover{
+  color: #D2E4DB;
+  border: solid 3px;
+  font-weight: bold;
+}
+@font-face {
+    font-family: 'kaushan_scriptregular';
+    src: url('kaushanscript-regular-webfont.woff2') format('woff2'),
+         url('kaushanscript-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'anime_ace_2.0_bbregular';
+    src: url('animeace2_reg-webfont.woff2') format('woff2'),
+         url('animeace2_reg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'comfortaaregular';
+    src: url('comfortaa-regular-webfont.woff2') format('woff2'),
+         url('comfortaa-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

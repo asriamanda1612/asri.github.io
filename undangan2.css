@@ -1,0 +1,562 @@
+body{
+  margin: 0;
+}
+
+.atas{
+  background-image: url('atas.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 665px;
+  top: 0;
+}
+
+.tulisanatas{
+  text-align: center;
+  margin-top: 275px;
+  margin-left: 70px;
+  color: white;
+  font-family: 'comfortaaregular';
+  position: absolute;
+}
+
+.namapengantin{
+  font-family: 'kaushan_scriptregular';
+  font-size: 30px;
+  margin-bottom: -10px;
+  margin-top: -10px;
+  font-weight: normal;
+  line-height: 60px;
+}
+
+@font-face {
+    font-family: 'kaushan_scriptregular';
+    src: url('kaushanscript-regular-webfont.woff2') format('woff2'),
+         url('kaushanscript-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'comfortaaregular';
+    src: url('comfortaa-regular-webfont.woff2') format('woff2'),
+         url('comfortaa-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.atas2{
+  background-image: url('atas2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 665px;
+}
+
+.fotolakilaki .thewedding{
+  margin: 0;
+  padding-top: 80px;
+  font-family: 'josefin_slabregular';
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.thewedding{
+  margin:0;
+  
+}
+
+.fotolakilaki img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: 73px;
+  margin-top: 40px;
+  border: solid black 4px;
+  padding: 5px;
+}
+
+.mitsuru{
+  font-family: 'kaushan_scriptregular';
+  font-size: 30px;
+}
+
+.fotolakilaki font{
+  font-family: 'quicksandregular';
+}
+
+.fotolakilaki .putrakedua p{
+  padding-top: 5px;
+}
+
+.dan{
+  font-size: 60px;
+  font-family: 'kaushan_scriptregular';
+  margin: 0;
+  padding-top: 30px;
+}
+
+.atas3{
+  background-image: url('atas3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+
+.fotoperempuan img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: 73px;
+  margin-top: 40px;
+  border: solid black 4px;
+  padding: 5px;
+}
+
+.fotoperempuan font{
+  font-family: 'quicksandregular';
+}
+
+@font-face {
+    font-family: 'josefin_slabregular';
+    src: url('josefinslab-regular-webfont.woff2') format('woff2'),
+         url('josefinslab-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'quicksandregular';
+    src: url('quicksand-regular-webfont.woff2') format('woff2'),
+         url('quicksand-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.isi{
+  background-image: url('tengah1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+}
+
+.isikatakata{
+  padding-top: 100px;
+}
+
+h3{
+  text-align: center;
+  font-family: 'josefin_slabregular';
+}
+
+.isikatakata p{
+  font-family: 'quicksandregular';
+  font-weight: 600;
+  font-size: 15px;
+}
+
+h1{
+  text-align: center;
+  font-family: 'josefin_slabregular';
+  margin-top: 25px;
+}
+
+h1{
+  margin-bottom: 2px;
+}
+
+.waktu {
+  margin-top: 0;
+}
+
+.bulan{
+  display: inline-block;
+  border-top: 5px dotted;
+  border-bottom: 5px dotted;
+  font-family: 'quicksandregular';
+  width: 120px;
+  font-weight: 600;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+
+.tanggal{  
+  display: inline-block;
+  font-family: 'quicksandregular';
+  font-weight: bold;
+  font-size: 30px;
+  margin: 0 7px;
+}
+
+.tahun{
+  display: inline-block;
+  border-top: 5px dotted;
+  border-bottom: 5px dotted;
+  font-family: 'quicksandregular';
+  width: 120px;
+  font-weight: 600;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.waktu p{
+  font-family: 'quicksandregular';
+  font-size: 18px;
+}
+
+.gambarbunga{
+  width: 280px;
+  height: 150px;
+  position: relative;
+  bottom: 30px;
+  margin: 0;
+}
+
+.waktu input{
+  border: none;
+  background-color: transparent;
+  border-radius: 50px;
+  border: solid 3px;
+  padding: 9px 18px;
+  font-size: 20px;
+  font-family: 'quicksandregular';
+  text-align: center;
+  font-weight: bold;
+  margin-top: -20px;
+}
+
+.isi2{
+  background-color: #D2E4DB;
+  right: 0;
+  left: 0;
+  height: 490px;
+ 
+}
+
+.timeisi{
+  background-color: #6d7c74;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 0;
+  height: 450px;
+}
+
+.timeisi h2{
+  margin: 0;
+  font-family: 'josefin_slabregular';
+  padding-top: 30px;
+}
+
+
+
+.time1{
+  background-image: url('bgtime2.jpg');
+  background-repeat: no-repeat;
+  width: 130px;
+  height: 130px;
+  margin-left: 28px;
+  margin-right: 10px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.time2{
+  background-image: url('bgtime2.jpg');
+  width: 130px;
+  height: 130px;
+  margin-left: 9px;
+  margin-right: 28px;
+  display: inline-block;
+  margin-top: 30px;
+}
+
+.time1 p{
+  margin: 0;
+  padding: 0;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.garistime1{
+  background-color: #D2E4DB;
+  height: 20px;
+  left: 0;
+  right: 0;
+  margin: 0;
+  text-align: center;
+  font-family: 'comfortaaregular';
+  font-weight: bold;
+  padding-top: 5px;
+}
+
+.hari{
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+
+.time2 p{
+  margin: 0;
+  padding: 0;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.garistime2{
+  background-color: #D2E4DB;
+  height: 20px;
+  left: 0;
+  right: 0;
+  margin: 0;
+  text-align: center;
+  font-family: 'comfortaaregular';
+  font-weight: bold;
+  padding-top: 5px;
+}
+
+.galeri{
+  background-image: url('atas2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 750px;
+ }
+ 
+.isigaleri{
+  padding-top: 50px;
+  padding-right: 0;
+  margin-right: 0;
+}
+
+.isigaleri h1{
+  font-family: 'josefin_slabregular';
+}
+
+ .galeri1{
+   margin-top: 25px;
+   margin-left: 10px;
+   margin-right: 0;
+ }
+ 
+ .galeri2{
+   
+   margin-left: .3px;
+ }
+ 
+ .galeri3{
+   margin-left: .3px;
+ }
+ 
+ .galeri4{
+   margin-left: 10px;
+ }
+ 
+ .galeri5{
+   margin-left: .3px;
+ }
+ 
+ .galeri6{
+   margin-left: 10px;
+ }
+ 
+ .video{
+   padding-top: 30px;
+   padding-left: 5px;
+   padding-right: 0;
+   margin: 0;
+ }
+ 
+ .sambungan{
+  background-image: url('sambungan.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 70px;
+
+ }
+ 
+ .kolomchat{
+  background-color: #6d7c74;
+  left: 0;
+  right: 0;
+  height: 695px;
+  margin-top: 56.5px;
+  overflow: scroll;
+  
+ }
+ 
+::-webkit-scrollbar {
+    width: 10px;
+    margin-right: 3px;
+}
+ 
+::-webkit-scrollbar-track {      
+    background: #6d7c74;    
+}
+ 
+::-webkit-scrollbar-thumb {
+    background: #D2E4DB;
+}
+ 
+.isikolomchat{
+  padding-top: 70px;
+  padding-left: 20px;
+}
+ 
+ .isikolomchat p{
+  margin: 0;
+  padding: 0;
+  color: white;
+ }
+ 
+ 
+ #nama{
+  margin-top: 3px;
+  margin-bottom: 15px;
+  padding: 0;
+  width: 318px;
+  height: 25px;
+  background-color: #D2E4DB;
+  border: none;
+  color: #6d7c74;
+ }
+ 
+ 
+ 
+ #pesan{
+  margin-top: 3px;
+  margin-bottom: 15px;
+  padding: 0;
+  width: 318px;
+  height: 80px;
+  background-color: #D2E4DB;
+  border: none;
+  color: #6d7c74;
+ }
+ 
+#nama:hover{
+   outline: solid white 3px;
+}
+
+#pesan:hover{
+  outline: solid white 3px;
+}
+
+label{
+  color: #D2E4DB;
+  margin-top: 10px;
+}
+
+.tombol{
+  color: #D2E4DB;
+  background-color: transparent;
+  border-radius: 50px;
+  border: solid 5px;
+  padding: 9px 20px;
+  margin-left: 100px;
+  font-size: 15px;
+  margin-top: 50px;
+  font-family: 'comfortaaregular';
+}
+
+.tanggapan1{
+  display: flex;
+  
+}
+
+.nana{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 50px;
+  display: inline;
+  
+}
+
+.tanggapannana{
+  width: 250px;
+  height: 120px;
+  background-color: #D2E4DB;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 50px;
+  margin-left: 10px;
+  font-size: 13px;
+  font-family: 'quicksandregular';
+  border-radius: 5%;
+  
+}
+
+.tanggapannana h3{
+  font-family: 'josefin_slabregular';
+  text-align: left;
+  color: #6d7c74;
+  padding-top: 0;
+  margin-top: 10px;
+}
+
+.namanana{
+  font-size: 18px;
+  font-family: 'josefin_slabregular';
+  color: #6d7c74;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+.tanggapannana p{
+  color: #6d7c74;
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.bawah{
+  background-image: url('bawah.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+}
+
+.paragrafprokes{
+  margin-top: 0;
+  padding-top: 200px;
+  font-family: 'quicksandregular';
+  font-weight: bold;
+}
+
+.bawah img{
+  margin-left: 50px;
+  margin-bottom: 0;
+  
+}
+
+.paragrafprokes2{
+  margin-top: 0;
+  padding-top: 0;
+  font-family: 'quicksandregular';
+  font-weight: bold;
+}
+
+.footer{
+  background-color: #D2E4DB;
+  height: 80px;
+  left: 0;
+  right: 0;
+  margin: 0;
+}
+
+.footer p{
+  margin-top: 0;
+  padding-top: 17px;
+  font-family: 'quicksandregular';
+  font-size: 20px;
+  color: #6d7c74;
+}
